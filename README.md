@@ -1,5 +1,6 @@
 # Wells Gardener 19K6100 PCB Repros
 
+***THIS PROJECT IS INCOMPLETE***
 
 So far, a P314, P15, and P123, and the IPC have been stripped, scanned, and reassembled for this project.
 That's at least one of each of the categories of boards. 
@@ -19,34 +20,34 @@ List of all PCB revisions:
 
 **DEFLECTION**
 
-|BOARD|MONITOR|VERSION|DESC|
-|---|---|---|---|
-|P314|6100|6100|Original version.|
-|P322|6400|6400||	
-|P324|6100|6101||
-|P327|6100|6102||
-|P339|6100|6102|Same PCB as P327, has sticker & component values changed.|
+|BOARD|MONITOR|VERSION|DESC|SCAN|PCB|
+|---|---|---|---|---|---|
+|P314|6100|6100|Original version.|NO|NO|
+|P322|6400|6400||NO|NO|
+|P324|6100|6101||NO|NO|
+|P327|6100|6102||NO|NO|
+|P339|6100|6102|Same PCB as P327, has sticker & component values changed.|NO|NO|
 
 **HIGH VOLTAGE**
-|BOARD|MONITOR|VERSION|DESC|
-|---|---|---|---|
-|P316|6100|V1||Original version.|
-|P324|6400|V1||	
-|P329|6100|V2||	
+|BOARD|MONITOR|VERSION|DESC|SCAN|PCB|
+|---|---|---|---|---|---|
+|P316|6100|V1||Original version.|YES|NO|
+|P324|6400|V1||NO|NO|
+|P329|6100|V2||NO|NO|	
 
 **NECK**
-|BOARD|MONITOR|VERSION|DESC|
-|---|---|---|---|
-|P315|6100|V1|Original version.|
-|P323|6100|V2||
-|P328|6100|V3|Same PCB as P323, has sticker & component values chagned.|
-|P341|6400|V1||
+|BOARD|MONITOR|VERSION|DESC|SCAN|PCB|
+|---|---|---|---|---|---|
+|P315|6100|V1|Original version.|YES|NO|
+|P323|6100|V2||NO|NO|
+|P328|6100|V3|Same PCB as P323, has sticker & component values chagned.|NO|NO|
+|P341|6400|V1||NO|NO|
 
 **INPUT PROTECTION CARD**
-|BOARD|MONITOR|VERSION|DESC|
-|---|---|---|---|
-|IPC|6100|V1|Made by Atari. Later integrated into V2 6100 Deflection.|
-|P325|6400|V2|Just for the 6400. Adds size, position, linearity adjustments on monitor.|
+|BOARD|MONITOR|VERSION|DESC|SCAN|PCB|
+|---|---|---|---|---|---|
+|IPC|6100|V1|Made by Atari. Later integrated into V2 6100 Deflection.|YES|NO|
+|P325|6400|V2|Just for the 6400. Adds size, position, linearity adjustments on monitor.|NO|NO|
 
 
 
