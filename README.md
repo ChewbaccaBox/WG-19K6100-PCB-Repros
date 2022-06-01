@@ -1,6 +1,6 @@
 # Wells Gardener 19K6100 PCB Repros
 
-***THIS PROJECT IS INCOMPLETE***
+***THIS PROJECT IS INCOMPLETE AND STILL IN PROGRESS***
 
 So far, a P314, P15, and P123, and the IPC have been stripped, scanned, and reassembled for this project.
 That's at least one of each of the categories of boards. 
